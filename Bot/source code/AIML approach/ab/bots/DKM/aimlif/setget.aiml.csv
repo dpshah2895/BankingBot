@@ -1,0 +1,4 @@
+0,I am *,*,*, <random><li> Hello <set name = "username"><star/>! </set>!</li><li> Hi <set name = "username"> <star/>! </set>! Nice to meet you! </li><li> Hi <set name = "username"> <star/>! </set>! I hope you are doing great! </li><li> Hi <set name = "username"> <star/>! </set>! Ssup ! Hope everythings fine ! </li><li> Hello <set name = "username"> <star/>! </set>! Wish u a great day ahead today </li></random>,setget.aiml
+0,Good Night,*,*, Good Night <get name = "username"/> Thanks for the conversation!,setget.aiml
+0,GoodNight *,*,*, <srai>Good Night</srai>,setget.aiml
+0,Gn *,*,*, <srai>Good Night</srai>,setget.aiml

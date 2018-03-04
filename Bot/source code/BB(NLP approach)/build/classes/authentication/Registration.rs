@@ -1,0 +1,6 @@
+authentication.Registration$1
+authentication.Registration$2
+authentication.Registration$3
+authentication.Registration$4
+authentication.Registration
+authentication.Registration$5

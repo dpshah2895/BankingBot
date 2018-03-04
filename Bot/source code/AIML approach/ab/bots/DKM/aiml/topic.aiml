@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+   <category>
+      <pattern>LETs DISCUSS something about Banks</pattern>
+      <template>Yes.It would be great too.. <set name = "topic">Banks</set></template>  
+   </category>
+   
+   <topic name = "Banks">
+      <category>
+         <pattern> * </pattern>
+         <template>Knowing such things about banks is great.</template>
+      </category>
+      
+      <category>
+         <pattern> I LIKED Demonetisation </pattern>
+         <template>Although it was never implemented in a good way but still I liked de-monetisation too.</template>
+      </category>
+      
+   </topic>
+</aiml>

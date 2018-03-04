@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml>
+   <category>
+      <pattern>What is the name of the bank</pattern>
+	  <template>The bank name is DKM
+	  </template> 
+</category>
+   
+   <category>
+   <pattern>What is the interest rate</pattern>
+   <template>Interest rate is 9 percent</template>
+   </category>
+   
+   <category>
+   <pattern>Why is this bank the best</pattern>
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>
+   </template>
+   </category>
+   </aiml>

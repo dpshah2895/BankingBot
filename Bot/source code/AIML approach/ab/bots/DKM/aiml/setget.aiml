@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+   <category>
+      <pattern>I am *</pattern>
+      <template>
+	  <random>
+		 <li> Hello <set name = "username"> <star/>! </set>! </li>
+		<li> Hi <set name = "username"> <star/>! </set>! Nice to meet you! </li>
+		<li> Hi <set name = "username"> <star/>! </set>! I hope you are doing great! </li>
+		<li> Hi <set name = "username"> <star/>! </set>! Ssup ! Hope everythings fine ! </li>
+		<li> Hello <set name = "username"> <star/>! </set>! Wish u a great day ahead today </li>
+	  
+	  </random>
+         
+      </template>  
+   </category>  
+   
+   <category>
+      <pattern>Good Night</pattern>
+	   <template>
+	   <random>
+	   <li>Good Night <get name = "username"/> Thanks for the conversation!</li>         
+	   <li>Good Night <get name = "username"/> It was nice meeting you!</li>
+      	</random>  </template>  
+   </category>
+
+
+ <category>
+      <pattern>GoodNight *</pattern>
+      <template>
+         <srai>Good Night</srai>
+      </template>
+   </category>   
+   
+   
+   <category>
+      <pattern>Gn *</pattern>
+      <template>
+         <srai>Good Night</srai>
+      </template>
+   </category>  
+   
+   
+   
+</aiml>

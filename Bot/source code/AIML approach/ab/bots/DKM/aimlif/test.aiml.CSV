@@ -1,0 +1,118 @@
+0,What is Cheque,*,*,A cheque is an instrument drawn on a specified bank and it is only payable on demand.,test.aiml
+0,What is Promissory Note,*,*,It’s an instrument in writing which contains an unconditional undertaking signed by the maker to pay a certain sum of money to the order or the bearer of instrument. The Promissory Notes require being stamped ad per Indian Stamp Act.,test.aiml
+0,DO YOU KNOW WHAT * IS,*,*,<srai>WHAT IS <star/></srai>,test.aiml
+0,What is Demand Promissory Note,*,*,The Promissory Note which is payable immediately on demand is called “Demand Promissory Note”.,test.aiml
+0,What is Usance Promissory Note,*,*,The Promissory Note which is payable after a predefined definite period is called “Usance Promissory Note”.,test.aiml
+0, What is bank,*,*,"A bank is a financial institution licensed as a receiver of cash deposits. There are two types of banks, commercial banks and investment banks. In most of the countries, banks are regulated by the national government or central bank.",test.aiml
+0,What is Bill of Exchange,*,*,It’s an instrument containing an unconditional order signed by the maker directing a certain person to pay a certain sum of amount only to the bearer of that instrument.,test.aiml
+0,What is Inland bills,*,*,Inland bills are contract agreements which define the information related to the transportation of goods overseas. Inland bills must be drawn on a person resident in India although it is payable outside India. The essential condition is that it must be drawn in India. For example a bill is drawn in Nagpur and payable in Hyderabad by an importer in New York is an inland bill.,test.aiml
+0,What is Foreign Bill,*,*,A foreign bill is a financial instrument which is drawn at in country and payable in another country. Any bill which is not an inland bill is a “Foreign Bill”. For example a bill drawn in London and payable in Bhopal by a resident Indian is a foreign bill.,test.aiml
+0,What is Accommodation Bill,*,*,"Accommodation bill is the “bill of exchange” by the third party which is also known as an “Accommodation party” or “Accommodation endorser” who acts as a guarantor. This kind of bill is not a genuine trade bill and it is drawn to accommodate a known party. After actual sale of goods, when a bill is drawn by a seller and accepted by another person claim to be buyer is accommodation bill.",test.aiml
+0,What is Stale Cheque,*,*,"If the cheque is not presented for payment for a period of 6 months from the date of its issuance, it is then considered as Stale Cheque.The validity of the cheque can be reduced by the drawer, like valid for 3 months but the maximum validity of any cheque is 6 months.",test.aiml
+0,What is Saving Bank Account,*,*,"If a person has limited income and he wants to save some money for future, then the account he opens is a Saving Bank Account. The account can be opened with the minimum initial deposit amount decided by the bank. The account holder can deposit the money anytime. He can also withdraw the money by withdrawal form or ATM or cheque. The rate of interest varies from bank to bank and changes time to time.",test.aiml
+0,What is Current Deposit Account,*,*,"Big institutions, companies, businessman etc. normally open their current deposit accounts. There are some restrictions on withdrawal in saving accounts and in current accounts there are no such restrictions. Current account can be opened with some initial amount decided by the bank. Here the bank does not pay any interest on their balance, in fact the bank charges the customer certain amount each year as Operational Charge. It also provides the facility of withdrawing excess of the balance of deposit.",test.aiml
+0,What is Overdraft Facility,*,*,"It is a facility provided by the banks that permits an account holder to use or withdraw more than they have in their accounts, but they can’t withdraw exceeding the maximum minus balance.This facility is called Overdraft Facility.",test.aiml
+0,What is Fixed Deposit Account,*,*,"This facility allows us to save money for long time. In saving accounts the rate of interest is less, but in fixed deposit account the rate of interest is higher. It is also known as term deposit account. The depositor can deposit the money for long periods like 7 to 10 years. During this period withdrawal is not allowed however the depositor can encash the money before the maturity period but at that time the rate of interest will be less.",test.aiml
+0,What is Recurring Deposit Account,*,*,In this type of account the depositor saves regularly and in return gets a fair return of deposit. While opening this account the deposit per month is fixed. We can deposit the amount once in the month on a fixed date and the amount is also fixed. The total amount with interest we can receive after the maturity. The rate of interest in recurring deposit account is higher than the saving account. The account can be opened by a person individually as well as jointly with another.,test.aiml
+0,What is Non performing assets,*,*,The asset which is not producing income is a “Non-Performing Asset”. It is an asset or an account of a borrower which is considered as loss asset or doubtful by the bank account or the financial institution is called “non-performing asset”.,test.aiml
+0,What is 90 days overdue,*,*,"It’s a norm for the identification of the “Non-performing asset” (NPA) starting 31 March 2014.The norm is as follow:
+
+- Interest or installment of principal remain overdue for more than ninety days in respect of term loan.
+- The account remains out of order for the period of more than ninety days.
+- The bill remains overdue for the period of more than ninety days.
+- Any amount to be received is due for more than ninety days.",test.aiml
+0,What is BANKNET,*,*,It’s a kind of payment network established by RBI. It was launched during 1991 in India. In this network the user can BANKNET from their premises through leased or dial up lines at the local centers. Here the messages of banking transactions are transferred in the form of codes for the settlement of the transaction and advice. It also provides access to SWIFT through its system.,test.aiml
+0,What is RBINET,*,*,It is a communication system running on BANKNET and RBINET is a client running a personal computer called RBINET. It can communicate with its server over the dedicated leased or dial-up lines.,test.aiml
+0,What is I-net,*,*,I-net was opened in 1983. It is owned by the Department of Telecommunication which uses Packet Switching Public Data Network (PSPDN). PSPDN is a kind of data sending technology. I-net uses telephone connections and satellites for communication which replaces the slow speed data communication. This technology connects major metropolis and international networks.,test.aiml
+0,What is NICNET,*,*,"NICNET stands for National Informatic Centre Network, which was set up in 1975. It promotes information culture which is a government organization and work for government organizations. It provides multiple facilities to finance, agriculture, industry, commerce by providing various applications. Currency chest operations in banks are performed by NICNET.",test.aiml
+0,What is INFINET,*,*,The abbreviation for INFINET is Indian Financial Network. It was developed by RBI sponsored organization which provides fast and secure intra –bank and inter-bank communication system. ,test.aiml
+0,What is SPNS,*,*,"The full form of SPNS is Shared Payment Network System. It provides round-the-clock banking convenience to customer of any bank performing basic banking functions like cash withdrawal, balance enquiry etc. at any ATM belonging to any bank.",test.aiml
+0,What is investment banking,*,*,"Investment banking manages portfolios of financial assets and commodity and currency, fixed income, corporate finance, corporate advisory services for mergers and acquisitions, debt and equity writing etc.",test.aiml
+0,What is Digital Signatures,*,*,Digital Signature is used for security purpose and it is equivalent to the handwritten signature. It is a signature in electronic form attached to an electronic record. Digital signature identifies the origin of the message and maintain the integrity of message. It defines authentication of an electronic record by a person whose name the digital signature certificates. In India Information Technology Act 2000 considers digital signature as personalized thumb print. ,test.aiml
+0,What is Mobile Banking,*,*,"Mobile banking provides us the ease of carrying out certain banking transactions through their mobile phone. This facility is provided by the banks. Many operations can be performed by using mobile banking like checking account balance, paying bills, request for cheque book. Stop payment instruction, summaries of last three transactions, transferring money to other account etc.",test.aiml
+0,What is Electronic Fund Transfer System,*,*,"Electronic fund transfer provides us to transfer fund electronically replacing the paper instruments. The electronic fund transfer is fast and easily available. It saves time of customer’s standing in queue. The products of EFTS includes:- 
+
+- WTs- wireless transfers.
+- ATM- Automated Trailer Machine
+- CDs- Cash Dispensers
+- POS- Point of Sale terminals
+- Home banking
+",test.aiml
+0,What is Smart Card,*,*,The Smart Card is an Integrated Circuit Card (ICC) to store information. It is a cash card or we can say ‘electronic purse’ which is a pre-paid cash card. The card provides an option to the customers for debit and credit facilities. These cards can be reloaded by ATM or by telephone. It reduces the need of carrying cash for shopping and enables the card holder to increase the amount at any time.,test.aiml
+0,What is Credit Card,*,*," It is an instrument of payment. The customer gets some credit on the card which he can use for shopping, ticket booking, encashment etc. The credit cards are of different types having different credit limits depending upon the bank.",test.aiml
+0,What is Debit Card,*,*,"It is a payment card used to obtain cash, purchasing goods and services automatically debiting the payment to the card holder’s bank account. ",test.aiml
+0,What is  Debit Card advantages,*,*,"The advantages of Debit Card:
+
+- No need to carry cash.
+- Quick and less complicated than using cheque.
+- Used for withdrawal of cash.
+- It can be issued to any individual having bank account.",test.aiml
+0,Name some negotiable instruments,*,*,"The negotiable instruments include 
+
+- promissory note
+- bill of lading
+- Bank draft/ pay order/bankers cheque.
+- Railway receipts
+- Dock warrant
+- Warehouse receipt
+- Certificate of deposit
+- Commercial paper
+- Treasury bills
+- Hundi 
+",test.aiml
+0, What is Negotiability features,*,*,"Features of Negotiability:
+
+- Freely transferable by delivery (when it is bearer).
+- Freely transferable by endorsement (when it is an order instrument).
+- The transferee taking the instrument in good faith.",test.aiml
+0,How many types of Promissory Notes are there,*,*,"Types of Promissory Note:
+
+1. Demand Promissory Note
+2. Usance Promissory Note
+",test.aiml
+0,How many types of bills are used in Banking Operations,*,*,"Following are the types of Bills used in Banking Operations:
+
+- Inland bills and Foreign bills
+- Time bills and Demand bills
+- Trade bills and Accommodation bills
+- Clean bills and Documentary bills.
+",test.aiml
+0,What is Hundi,*,*,"Hundi is kind of “bill of exchange”. In Hundi any seller sells his good under bill of exchange. These bill of exchange are known as “Hundi”. Then the seller sends the “Hundi” to the buyer for its acceptance. These bills of exchange are generally written in native language of that place and governed by local usage and practices. Generally four types of Hundi are used.
+
+1. Darshani Hundi- It is similar to the demand bills.
+2. Miadi Hundi- It is similar to the usance bills.
+3. Namyog Hundis- It is similar to the order instruments.
+4. Khokha- which has been paid and cancelled.",test.aiml
+0,*,*,*,<srai>WHAT IS <star/></srai>,test.aiml
+0,When should banks not pay the Cheque,*,*,"Bank should not pay a cheque in the following cases:
+
+- Death of the drawer.
+- Insane customers
+- Insolvent customers
+- On receipt of valid stop payment instruction.
+- When cheque is post-dated.
+- When account has insufficient fund.
+",test.aiml
+0,What is Money Laundering,*,*,"The process of converting illegal money into legal money is Money Laundering. According to Section 3 of the Prevention of Money laundering Act 2002 as:
+“Whosoever directly or indirectly attempts to indulge or knowingly assists or is involved in any process or activity connected with the proceeds of crime and is projecting it as the untainted property shall be guilty of the offence of money laundering”.
+",test.aiml
+0,What is common factors of Money Laundering,*,*,"Generally there are four factors of money laundering:
+
+- The true ownership and real source of money is not revealed.
+- The launderers change the form of the proceeds in order to shrink the huge volume of cash generated by the initial unlawful activity.
+- The trail left by the process is not known so that it make it difficult to follow the money from the beginning to end.
+- Constant control is maintained on the money.",test.aiml
+0,What is stages of Money Laundering process,*,*,"The following are the stages of “money laundering” process:
+
+1. Placement stage:-It is the first introduction of entry for funds derived for any criminal activities.
+2. Layering/Agitation stage: - The object of this stage is to prevent the tracing of illegal proceed. It creates a complex network of transactions which attempts to not reveal the link between the initial entry and the end of the money laundering cycle.
+3. Integration stage: - This process achieves the appearance of total legitimacy of funds thereby it refers to the return of funds to the legitimate economy for later extraction.",test.aiml
+0,Give few ways of Money Laundering,*,*,"Following are the few ways of money laundering:-
+
+- Frequent exchange of cash into other currencies.
+- Large withdrawals from inactive account.
+- Transferring large sum of money to or from abroad.
+- More use of safe deposit facilities.
+- Customer having several accounts in different banks but in same location.",test.aiml
+0,* means,*,*,<srai>WHAT IS <star/></srai>,test.aiml
+0,* is,*,*,<srai>WHAT IS <star/></srai>,test.aiml

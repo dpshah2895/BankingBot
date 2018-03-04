@@ -1,0 +1,118 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml>
+
+ <category>
+      <pattern>interest</pattern>
+	  <template>
+	  
+	  <random>
+	  <li> Hello! Specify which interest type u are specifying </li>
+	  <li> Hi! What exactly in interest</li>
+	  
+	  </random>
+
+</template> 
+	 
+        
+   </category>
+   
+    <category>
+      <pattern>What is the way of issuing cheque book</pattern>
+	  <template>
+	Visit your nearest branch , fill a form which will be available in the bank and submit in respective counter.
+</template> 
+        
+   </category>
+   
+   
+   
+   <category>
+<pattern>Cheque book</pattern>
+<template><srai>What is the way of issuing cheque book</srai></template>
+</category>
+   
+   
+   <category>
+<pattern>How to enable Online /mobile banking</pattern>
+<template><srai>Go to the bank website. There'll be a hyperlink specifying a form to fill. Then you are required to go to the bank with the printout of that form and submit it.</srai></template>
+</category>
+
+
+<category>
+<pattern>Online banking</pattern>
+<template><srai>How to enable Online /mobile banking</srai></template>
+</category>
+
+
+<category>
+<pattern>Mobile banking</pattern>
+<template><srai>How to enable Online /mobile banking</srai></template>
+</category>
+
+
+
+<category>
+<pattern>Online</pattern>
+<template><srai>How to enable Online /mobile banking</srai></template>
+</category>
+
+ <category>
+      <pattern>Types of loans provided</pattern>
+	  <template>
+	Home loan, Car loan, Educationsl loan
+	</template> 
+        
+   </category>
+   
+   
+   <category>
+<pattern>Loans</pattern>
+<template><srai>Types of loan provided</srai></template>
+</category>
+
+
+
+
+ <category>
+<pattern>Can I see my transactions</pattern>
+<template>Sorry you have to visit bank in person so tha  we can verify you.</template>
+</category>
+
+
+  <category>
+<pattern>Transactions</pattern>
+<template><srai>Can I see my transactions</srai></template>
+</category>
+   
+   
+   
+ <category>
+<pattern>Can I see my balance</pattern>
+<template>Sorry you have to visit bank in person so that  we can verify you. We cant disclose the balance</template>
+</category>
+
+
+
+  <category>
+<pattern>Balance</pattern>
+<template><srai>Can I see my balance</srai></template>
+</category>
+
+
+
+  <category>
+<pattern>Balance Sheet</pattern>
+<template><srai>Can I see my balance</srai></template>
+</category>
+
+
+<category>
+<pattern>What is your name</pattern>
+<template>My name is DKM Bot. I will assist you for your banking operations</template>
+</category>
+
+
+   
+   
+   
+</aiml>

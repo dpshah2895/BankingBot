@@ -1,0 +1,25 @@
+0,HELLO *,*,*,"<random>#Newline	  <li> Hello! </li>#Newline	  <li> Hi! Nice to meet you! </li>#Newline	  <li> Hi! I hope you are doing great! </li>#Newline	  <li> Hi! Ssup ! Hope everythings fine ! </li>#Newline	  <li> Hello! Wish u a great day ahead today </li>	  #Newline	  </random>",hi.aiml
+0,HELLO,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HI,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOWDY,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOLA,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HEYYYY,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOW ARE YOU ?,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOW ?,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HLLO,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HI *,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HEY *,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HEY,*,*,<srai>HELLO *</srai>,hi.aiml
+0,BYE,*,*,Good Bye!,hi.aiml
+0,GOODBYE,*,*,<srai>BYE</srai>,hi.aiml
+0,GOODBYE *,*,*,<srai>BYE</srai>,hi.aiml
+0,BYE *,*,*,<srai>BYE</srai>,hi.aiml
+0,What is the name of the bank,*,*,The bank name is DKM,hi.aiml
+0,What is the interest rate,*,*,Interest rate is 9 percent,hi.aiml
+0,Why is this bank the best,*,*,"<srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+",hi.aiml

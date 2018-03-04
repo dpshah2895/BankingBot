@@ -1,0 +1,130 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml>
+   <category>
+      <pattern>HELLO *</pattern>
+	  <template>
+	  
+	  <random>
+	  <li> Hello! </li>
+	  <li> Hi! Nice to meet you! </li>
+	  <li> Hi! I hope you are doing great! </li>
+	  <li> Hi! Ssup ! Hope everythings fine ! </li>
+	  <li> Hello! Wish u a great day ahead today </li>	  
+	  </random>
+
+</template> 
+	 
+        
+   </category>
+   
+   <category>
+<pattern>Hello</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HI</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOWDY</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOLA</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Heyyyy</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOw are you ?</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>How ?</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hllo</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hi *</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+
+<category>
+<pattern>Hey *</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hey</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+
+
+<category>
+      <pattern>BYE</pattern>
+      <template>Good Bye!</template>
+   </category>
+   
+   <category>
+      <pattern>Goodbye</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+   <category>
+      <pattern>Goodbye *</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+   <category>
+      <pattern>BYE *</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+  
+   <category>
+      <pattern>What is the name of the bank</pattern>
+	  <template>The bank name is DKM
+	  </template> 
+</category>
+   
+   <category>
+   <pattern>What is the interest rate</pattern>
+   <template>Interest rate is 9 percent</template>
+   </category>
+   
+   <category>
+   <pattern>Why is this bank the best</pattern>
+   <template><srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus, we have over 1 million customers worldwide. Our primary goal is customer satisfaction
+   </template>
+   </category>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+</aiml>

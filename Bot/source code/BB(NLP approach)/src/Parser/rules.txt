@@ -1,0 +1,16 @@
+S:NP VP
+NP:DT N|NP PP
+PP:PRP NP
+VP:V NP|VP PP
+DT:a|the|an
+N:child|cake|fork
+PRP:with|to
+V:saw|ate
+
+NP:(DT) (A) N (PP)	() indicates option
+NP:NP CONJ NP
+VP:V (NP) (PP) (ADV)
+VP:VP CONJ VP
+S:S CONJ S
+AP:A|(ADVP) A
+ADVP:ADV|(ADVP) ADV

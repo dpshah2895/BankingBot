@@ -1,0 +1,18 @@
+I ate 40 oranges yesterday.
+A computer cannot be expected to give high performance.
+The bank does not provide credit cards to people with less income.
+You can get 4% interest on current account and 5% interest on savings account.
+He came to me when I was sleeping.
+My loan interest rate per year is 4 percent.
+Tom's loan interest is 8% per year.
+About 200 people came to the bank.
+The third policy best suits you.
+The guy, John said, left early in the morning.
+If I were you I would run.
+His requirement is that everyone be computer literate.
+Last night, I swam in the pool.
+The asset which is not producing income is a Non-Performing asset. It is an asset or an account of a borrower which is considered as a loss asset or doubtful by the bank account or the financial institution is called a non-performing asset.
+Your account balance is 000 dollars.(ACTION=BALANCE)
+Yes, I will open your balance sheet.(ACTION=BALANCESHEET)
+You have to fill a form to apply for a new cheque book.(ACTION=CHEQUEBOOK)
+ 

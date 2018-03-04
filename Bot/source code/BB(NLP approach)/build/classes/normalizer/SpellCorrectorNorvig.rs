@@ -1,0 +1,2 @@
+normalizer.Two
+normalizer.SpellCorrectorNorvig

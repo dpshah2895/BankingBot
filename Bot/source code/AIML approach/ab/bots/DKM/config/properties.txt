@@ -1,0 +1,6 @@
+url:http://www.alicebot.org
+name:DARSHAN
+email:callmom-info@pandorabots.com
+gender:Fmale
+botmaster:DPS
+

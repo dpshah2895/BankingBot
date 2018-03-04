@@ -1,0 +1,112 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml>
+   <category>
+      <pattern>HELLO *</pattern>
+	  <template>
+	  
+	  <random>
+	  <li> Hello! </li>
+	  <li> Hi! Nice to meet you! </li>
+	  <li> Hi! I hope you are doing great! </li>
+	  <li> Hi! Ssup ! Hope everythings fine ! </li>
+	  <li> Hello! Wish u a great day ahead today </li>	  
+	  </random>
+
+</template> 
+	 
+        
+   </category>
+   
+   <category>
+<pattern>Hello</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HI</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOWDY</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOLA</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Heyyyy</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>HOw are you ?</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>How ?</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hllo</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hi *</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+
+<category>
+<pattern>Hey *</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+<category>
+<pattern>Hey</pattern>
+<template><srai>HELLO *</srai></template>
+</category>
+
+
+
+<category>
+      <pattern>BYE</pattern>
+      <template>Good Bye!</template>
+   </category>
+   
+   <category>
+      <pattern>Goodbye</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+   <category>
+      <pattern>Goodbye *</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+   <category>
+      <pattern>BYE *</pattern>
+      <template>
+         <srai>BYE</srai>
+      </template>
+   </category>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+</aiml>
